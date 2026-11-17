@@ -1,0 +1,13 @@
+{
+  "title": "Store Mate",
+  "short": "Store Mate",
+  "tagline": "Point of sale for small shops",
+  "description": "A point-of-sale system for small retail shops. It handles billing and stock in simple words, and is made to run well on an ordinary shop PC.",
+  "category": "Apps",
+  "status": "In development",
+  "year": "2026",
+  "tech": ["POS", "Billing", "Inventory"],
+  "color": "#0f6e6e",
+  "order": 3,
+  "links": {}
+}

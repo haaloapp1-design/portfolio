@@ -44,45 +44,21 @@ window.PROJECTS = [
     "cover": ""
   },
   {
-    "slug": "parhai-dost",
-    "title": "Parhai Dost",
-    "short": "Parhai Dost",
-    "tagline": "A voice tutor for children who are not in school",
-    "description": "My teacher project for Beaconhouse's ILAP 2027. Parhai Dost is a browser-based voice tutor for out-of-school children in Sindh, built around inclusion and UN Sustainable Development Goals 4 and 10.",
-    "category": "Education",
-    "status": "Live pilot",
-    "year": "2026",
-    "tech": [
-      "Web app",
-      "Voice",
-      "AI tutor",
-      "GitHub Pages"
-    ],
-    "color": "#1f7a5a",
-    "order": 3,
-    "links": {
-      "live": "https://ghulam108800-rgb.github.io/parhai-dost/",
-      "repo": "https://github.com/ghulam108800-rgb/parhai-dost"
-    },
-    "cover": ""
-  },
-  {
-    "slug": "barkat-pos",
-    "title": "Barkat POS",
-    "short": "Barkat",
-    "tagline": "Point of sale for kiryana stores and pharmacies",
-    "description": "A simple, premium point-of-sale system sold on a one-time licence. Web, Windows and Android apps come from one Flutter codebase, work on their own and sync when connected. English by default, with Urdu labels as a setting, and automatic daily backups.",
+    "slug": "store-mate",
+    "title": "Store Mate",
+    "short": "Store Mate",
+    "tagline": "Point of sale for small shops",
+    "description": "A point-of-sale system for small retail shops. It handles billing and stock in simple words, and is made to run well on an ordinary shop PC.",
     "category": "Apps",
     "status": "In development",
     "year": "2026",
     "tech": [
-      "Flutter",
-      "Windows",
-      "Android",
-      "Web"
+      "POS",
+      "Billing",
+      "Inventory"
     ],
     "color": "#0f6e6e",
-    "order": 4,
+    "order": 3,
     "links": {},
     "cover": ""
   },
@@ -124,44 +100,6 @@ window.PROJECTS = [
     "cover": ""
   },
   {
-    "slug": "apify-actors",
-    "title": "Apify Actors",
-    "short": "Actors",
-    "tagline": "Nine web data tools published on the Apify Store",
-    "description": "A set of nine Actors, small cloud programs that collect and structure public web data, built to run at zero infrastructure cost and published under my Apify developer account. A second batch is planned.",
-    "category": "Web and tools",
-    "status": "Published",
-    "year": "2026",
-    "tech": [
-      "Apify",
-      "JavaScript",
-      "Web scraping"
-    ],
-    "color": "#e8b02e",
-    "order": 7,
-    "links": {},
-    "cover": ""
-  },
-  {
-    "slug": "ai-voice-assistant",
-    "title": "AI Voice Assistant",
-    "short": "Voice",
-    "tagline": "A desktop assistant you talk to",
-    "description": "A desktop voice assistant written in Python with a Tkinter interface and the Gemini API behind it. I am building it for my own daily use first.",
-    "category": "AI",
-    "status": "In development",
-    "year": "2026",
-    "tech": [
-      "Python",
-      "Tkinter",
-      "Gemini API"
-    ],
-    "color": "#5b3fa8",
-    "order": 8,
-    "links": {},
-    "cover": ""
-  },
-  {
     "slug": "code-with-izzy",
     "title": "Code with Izzy",
     "short": "Izzy",
@@ -181,25 +119,6 @@ window.PROJECTS = [
     "cover": ""
   },
   {
-    "slug": "live-quiz-app",
-    "title": "Live Quiz App",
-    "short": "Quiz",
-    "tagline": "A Kahoot-style quiz built lesson by lesson with a student",
-    "description": "A real-time classroom quiz in Flask and Firebase Firestore. I use it as a teaching project: the student builds each part across short sessions, from the join code to the live scoreboard.",
-    "category": "Education",
-    "status": "Teaching project",
-    "year": "2026",
-    "tech": [
-      "Flask",
-      "Firebase",
-      "Python"
-    ],
-    "color": "#7a2e8e",
-    "order": 10,
-    "links": {},
-    "cover": ""
-  },
-  {
     "slug": "shelter-management-portal",
     "title": "Shelter Management Portal",
     "short": "Shelter",
@@ -214,24 +133,6 @@ window.PROJECTS = [
     ],
     "color": "#3d5a80",
     "order": 11,
-    "links": {},
-    "cover": ""
-  },
-  {
-    "slug": "vehicle-inspection-system",
-    "title": "Vehicle Inspection System",
-    "short": "Inspect",
-    "tagline": "A desktop checklist for vehicle inspections",
-    "description": "A small Python desktop app that checks each vehicle against a fixed list of points. Every point is marked OK, Repair Needed or Not Applicable, with a comment.",
-    "category": "Web and tools",
-    "status": "In development",
-    "year": "2026",
-    "tech": [
-      "Python",
-      "Tkinter"
-    ],
-    "color": "#4a4e69",
-    "order": 12,
     "links": {},
     "cover": ""
   }
