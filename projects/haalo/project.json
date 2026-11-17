@@ -1,0 +1,19 @@
+{
+  "title": "Haalo",
+  "short": "Haalo",
+  "tagline": "Ride hailing and delivery for Nawabshah",
+  "description": "Nawabshah has no ride-hailing service, so I am building one. Haalo books bikes and rickshaws, and its Get Me Anything service sends a rider for restaurant food, medicine or groceries. The name comes from the Sindhi word for \"let's go\".",
+  "category": "Apps",
+  "status": "In development",
+  "year": "2026",
+  "tech": [
+    "Mobile app",
+    "Ride hailing",
+    "Delivery",
+    "Claude Code"
+  ],
+  "color": "#f6c21c",
+  "featured": true,
+  "order": 1,
+  "links": {}
+}

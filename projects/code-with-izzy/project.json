@@ -1,0 +1,17 @@
+{
+  "title": "Code with Izzy",
+  "short": "Izzy",
+  "tagline": "Coding books for children aged 8 to 12",
+  "description": "A book series that teaches programming ideas to children through a mascot called Izzy. The first title is published on Amazon KDP.",
+  "category": "Education",
+  "status": "Published",
+  "year": "2026",
+  "tech": [
+    "Amazon KDP",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "color": "#f08a24",
+  "order": 9,
+  "links": {}
+}

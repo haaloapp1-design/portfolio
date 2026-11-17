@@ -1,0 +1,17 @@
+{
+  "title": "BEAMS Lesson Plan Filler",
+  "short": "BEAMS",
+  "tagline": "A Chrome extension that fills in weekly lesson plans",
+  "description": "Teachers at my school type the same lesson plan form every week. This Chrome extension fills the form on the school platform from a prepared plan, so a week of entries takes minutes.",
+  "category": "Web and tools",
+  "status": "In use",
+  "year": "2026",
+  "tech": [
+    "Chrome extension",
+    "JavaScript",
+    "Automation"
+  ],
+  "color": "#bf3a2b",
+  "order": 6,
+  "links": {}
+}

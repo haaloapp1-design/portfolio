@@ -1,0 +1,16 @@
+{
+  "title": "Hisab",
+  "short": "Hisab",
+  "tagline": "A scientific calculator with unit conversions",
+  "description": "An advanced calculator app in Flutter with scientific functions, unit conversions and a clean blue and white look. Hisab is the Urdu word for calculation.",
+  "category": "Apps",
+  "status": "In development",
+  "year": "2026",
+  "tech": [
+    "Flutter",
+    "Dart"
+  ],
+  "color": "#2a6fdb",
+  "order": 5,
+  "links": {}
+}

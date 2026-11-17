@@ -1,0 +1,17 @@
+{
+  "title": "Apify Actors",
+  "short": "Actors",
+  "tagline": "Nine web data tools published on the Apify Store",
+  "description": "A set of nine Actors, small cloud programs that collect and structure public web data, built to run at zero infrastructure cost and published under my Apify developer account. A second batch is planned.",
+  "category": "Web and tools",
+  "status": "Published",
+  "year": "2026",
+  "tech": [
+    "Apify",
+    "JavaScript",
+    "Web scraping"
+  ],
+  "color": "#e8b02e",
+  "order": 7,
+  "links": {}
+}

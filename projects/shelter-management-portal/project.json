@@ -1,0 +1,16 @@
+{
+  "title": "Shelter Management Portal",
+  "short": "Shelter",
+  "tagline": "A web portal for running a shelter",
+  "description": "A web application for managing shelter records, with a React front end designed to run on ordinary shared hosting.",
+  "category": "Web and tools",
+  "status": "In development",
+  "year": "2026",
+  "tech": [
+    "React",
+    "JavaScript"
+  ],
+  "color": "#3d5a80",
+  "order": 11,
+  "links": {}
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Barkat POS",
+  "short": "Barkat",
+  "tagline": "Point of sale for kiryana stores and pharmacies",
+  "description": "A simple, premium point-of-sale system sold on a one-time licence. Web, Windows and Android apps come from one Flutter codebase, work on their own and sync when connected. English by default, with Urdu labels as a setting, and automatic daily backups.",
+  "category": "Apps",
+  "status": "In development",
+  "year": "2026",
+  "tech": [
+    "Flutter",
+    "Windows",
+    "Android",
+    "Web"
+  ],
+  "color": "#0f6e6e",
+  "order": 4,
+  "links": {}
+}

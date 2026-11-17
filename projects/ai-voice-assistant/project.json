@@ -1,0 +1,17 @@
+{
+  "title": "AI Voice Assistant",
+  "short": "Voice",
+  "tagline": "A desktop assistant you talk to",
+  "description": "A desktop voice assistant written in Python with a Tkinter interface and the Gemini API behind it. I am building it for my own daily use first.",
+  "category": "AI",
+  "status": "In development",
+  "year": "2026",
+  "tech": [
+    "Python",
+    "Tkinter",
+    "Gemini API"
+  ],
+  "color": "#5b3fa8",
+  "order": 8,
+  "links": {}
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Seer Notes",
+  "short": "Seer Notes",
+  "tagline": "A fast notes app for voice, photos and text",
+  "description": "A free note-taking app with no servers behind it. Notes stay on the phone and back up only to the user's own Google Drive, Dropbox or Mega account. Optional AI help runs on the user's own Gemini key.",
+  "category": "Apps",
+  "status": "In development",
+  "year": "2026",
+  "tech": [
+    "Flutter",
+    "Dart",
+    "Gemini API",
+    "Offline first"
+  ],
+  "color": "#27348b",
+  "featured": true,
+  "order": 2,
+  "links": {}
+}

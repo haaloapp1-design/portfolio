@@ -1,0 +1,16 @@
+{
+  "title": "Vehicle Inspection System",
+  "short": "Inspect",
+  "tagline": "A desktop checklist for vehicle inspections",
+  "description": "A small Python desktop app that checks each vehicle against a fixed list of points. Every point is marked OK, Repair Needed or Not Applicable, with a comment.",
+  "category": "Web and tools",
+  "status": "In development",
+  "year": "2026",
+  "tech": [
+    "Python",
+    "Tkinter"
+  ],
+  "color": "#4a4e69",
+  "order": 12,
+  "links": {}
+}

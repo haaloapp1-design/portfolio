@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#c3cdf0"/>
+  <circle cx="400" cy="400" r="150" fill="#27348b" opacity=".85"/>
+  <path d="M110 1000c0-190 130-330 290-330s290 140 290 330z" fill="#27348b" opacity=".85"/>
+  <text x="400" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#fff">Add assets/profile.png</text>
+</svg>
