@@ -146,6 +146,8 @@ ul, ol { padding: 0; list-style: none; }
   font-family: var(--display); font-weight: 800;
   font-size: clamp(34px, 4.3vw, 58px);
   line-height: .9; text-transform: uppercase;
+  color: #fff; background: var(--indigo);
+  padding: 14px 18px 12px; border-radius: 14px;
   z-index: 3;
 }
 
@@ -362,7 +364,7 @@ ul, ol { padding: 0; list-style: none; }
   .hero-portrait { order: 2; transform: none; left: auto; bottom: auto; width: min(74vw, 320px); position: relative; }
   .hero-status { order: 3; margin-top: -22px; position: relative; z-index: 3; }
   .hero-name { order: 4; margin-top: 26px; font-size: clamp(84px, 27vw, 130px); line-height: .82; }
-  .hero-role { order: 5; margin-top: 14px; font-size: 34px; }
+  .hero-role { order: 5; margin-top: 14px; font-size: 34px; align-self: center; padding: 10px 14px 8px; }
   .hero-role br { display: none; }
   .hero-blurb { order: 6; width: auto; max-width: 34ch; margin-top: 14px; font-size: 16.5px; }
   @keyframes rise { from { opacity: 0; transform: translateY(40px); } }
